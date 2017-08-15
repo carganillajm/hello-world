@@ -9,17 +9,17 @@
   <tr>
     <td>Middlename:
     </td>
-    <td><input type="text" name="mname"></input>
+    <td><input type="text" name="mname" />
     </td>
   </tr>
   <tr>
     <td>Lastname:
     </td>
-    <td><input type="text" name="lname"></input>
+    <td><input type="text" name="lname" />
     </td>
   </tr>
   <tr>
-    <td colspan="2"><input type="submit"></input>
+    <td colspan="2"><input type="submit" />
     </td>
   </tr>
 </table>
