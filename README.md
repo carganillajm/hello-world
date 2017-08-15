@@ -3,19 +3,19 @@
   <tr>
     <td>Firstname:
     </td>
-    <td><input type="text" name="fname"></input>
+    <td><input type = "text" name = "first_name" value = "" maxlength = "100" />
     </td>
   </tr>
   <tr>
     <td>Middlename:
     </td>
-    <td><input type="text" name="mname" />
+    <td><input type = "text" name = "first_name" value = "" maxlength = "100" />
     </td>
   </tr>
   <tr>
     <td>Lastname:
     </td>
-    <td><input type="text" name="lname" />
+    <td><input type = "text" name = "first_name" value = "" maxlength = "100" />
     </td>
   </tr>
   <tr>
