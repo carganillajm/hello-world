@@ -1,4 +1,4 @@
-<h1>Sample Table</h1>
+<h1>John Mar Caranilla</h1>
 <table>
   <tr>
     <td>Firstname:
